@@ -33,3 +33,6 @@ The model has been evaluated with the following results:
 - Mean Squared Error (MSE): 49,830,096.85
 
 ***  Salary = (9449.96 X YearsExperience) + 25321.58 ***
+
+
+* Note: The data has been got from kaggle. *
