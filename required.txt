@@ -1,0 +1,7 @@
+*** Required Libraries ***
+
+numpy # Linear Algebra
+pandas # data processing, CSV file I/O (e.g. pd.read_csv)
+scikit-learn # Train, test, prediction, linear regression
+matplotlib # Visualization
+os
